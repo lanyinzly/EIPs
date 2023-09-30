@@ -8,7 +8,7 @@ status: Draft
 type: Standards Track
 category: ERC
 created: 2023-09-03
-requires: <EIP number(s)> # Only required when you reference an EIP in the `Specification` section. Otherwise, remove this field.
+requires: ERC-721
 ---
 
 
@@ -172,6 +172,7 @@ interface IERC7Agency{
  }
 ```
 
+## Rationale
 
 ## Backwards Compatibility
 
