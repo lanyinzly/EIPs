@@ -18,7 +18,7 @@ This proposal defines a system which embeds a Function Oracle that can wrap fung
 
 ## Motivation
 
-The motivation behind a wrapping system with inbeded Function Oracle AMM is to provide decentralized credit endorsement and thus quantifiable decentralized credit assets with liquidity. This creates an applicable infrastructure for credit creation, transmission, and oracle in payment, social, and financial context. Decentralized credit voucher can be implemented in the form of Non-fungible tokens, compatible with current Ethereum environment, which also expands its application scenarios. The concept of decentralized credit is highly integrated with dApps development. It aims to foster a more trustless environment. 
+The motivation behind a wrapping system with embedded Function Oracle AMM is to provide decentralized credit endorsement and thus quantifiable decentralized credit assets with liquidity. This creates an applicable infrastructure for credit creation, transmission, and oracle in payment, social, and financial context. Decentralized credit voucher can be implemented in the form of Non-fungible tokens, compatible with current Ethereum environment, which also expands its application scenarios. The concept of decentralized credit is highly integrated with dApps development. It aims to foster a more trustless environment.
 
 Under current framework of pool, it is hard for user to define how to manage the pool without coding. However, we believe it should be more accessible for users to define and create their own pools to energize the market. Through employing FTs as premium for NFTs under a customizable framework, such an approach standardize the process of creating a pool and allows users to gain the ability to "do it yourself."
 
